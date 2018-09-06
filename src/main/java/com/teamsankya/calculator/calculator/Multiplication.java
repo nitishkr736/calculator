@@ -10,4 +10,7 @@ public class Multiplication {
 	 public static double mul(double a, double b){
 		   return a*b;
 		  }
+	 public static float fl(float a,float b) {
+		 return a*b;
+	 }
 }
