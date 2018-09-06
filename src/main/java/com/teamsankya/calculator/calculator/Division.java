@@ -10,4 +10,7 @@ public class Division {
 	 public static double div(double a, double b){
 		   return a/b;
 		  }
+	 public  static float div(float a,float b) {
+		 return a/b;
+	 }
 }
